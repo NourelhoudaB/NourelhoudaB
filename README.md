@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Nourelhouda Baklouti
 
-<!--
-**NourelhoudaB/NourelhoudaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Final-year Data Engineering Student** at ENETCOM Sfax, Tunisia  
+🤖 Passionate about **AI, Machine Learning, Deep Learning, NLP, and Data Engineering**  
+🌱 Continuously exploring **cutting-edge AI solutions** and open to new opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 🛠️ Skills & Technologies
+**Programming & ML:** Python | TensorFlow | PyTorch | Scikit-Learn | XGBoost | NLP | LSTM | Transformers  
+**Mobile & Backend:** Flutter | Firebase | API Development | Data Pipelines  
+**Data & Visualization:** Pandas | NumPy | Matplotlib | Plotly | SQL  
+
+---
+
+### 📬 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/nourelhouda-baklouti-5004b12b8/)  
+- [Email](nourelhoudabaklouti10@gmail.com)  
+
+---
+
+### 🌟 Fun Fact
+I love building **AI-powered solutions** that make real-world impact. Always learning, always coding! 🚀
